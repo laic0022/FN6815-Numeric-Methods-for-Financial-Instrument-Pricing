@@ -1,0 +1,6 @@
+jupyterlab
+pyppeteer
+matplotlib==3.8.3
+openpyxl
+scipy==1.12.0
+numpy==1.26.4
